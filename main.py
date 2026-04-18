@@ -1,1 +1,2 @@
-ptinr("Hello")
+#ptinr("Hello")
+print('харизматичный психолог маша')
